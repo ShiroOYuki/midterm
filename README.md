@@ -5,4 +5,4 @@
 - Device ：Pixel 4 XL API 29
 
 ## How to use？
-- run /lib/main.dart
+- run midterm/lib/main.dart
